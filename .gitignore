@@ -1,1 +1,6 @@
-.vpp.bak*
+*.vpp~*
+*.lock
+.vpprefdata
+tmp/*
+*vpp.working
+*.vpp.working-journal
