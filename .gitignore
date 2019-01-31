@@ -1,5 +1,5 @@
-*.vpp~*
-*.lock
+*.vpp.*
+*.lck
 .vpprefdata
 tmp/*
 *vpp.working
